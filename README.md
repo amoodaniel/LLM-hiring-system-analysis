@@ -16,3 +16,9 @@ The file application_df provides information on the hiring stage of each applica
 10. hired
 
 An application can be closed at any of the steps above.
+
+### Questions:
+
+1. What is the most common ['application_stage'] for applications with a ['cos_sim_score'] higher than 0.7? How would you comment the results?
+2. What is the most common ['application_stage'] for applications with a ['cos_sim_score'] lower than 0.3? How would you comment the results?
+3. Look at ['candidate_titles'] column. The lists here contain one or more job titles. Do you see any correlation between a higher value under ['cos_sim_score'] and the number of jobs?

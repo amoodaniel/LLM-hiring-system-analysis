@@ -76,6 +76,3 @@ To further enhance the automated vetting process, the following was suggested:
     *   Investigate if specific job titles are more prevalent or correlate with higher/lower `cos_sim_score`.
 *   **Industry Correlation:**
     *   **Recommendation:** Conduct a detailed analysis to explore the correlation between the industry of a candidate's previous job titles, the industry of the job they applied for, and the resulting `cos_sim_score`. This could reveal if the LLM (MPNet v2) inherently favors candidates with direct same-industry experience and help refine the model or evaluation criteria for better cross-industry talent identification.
-
----
-*This README was updated based on the analysis performed in `Amoo_assignment.ipynb`.*

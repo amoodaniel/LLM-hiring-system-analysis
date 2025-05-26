@@ -3,6 +3,7 @@
 This project analyzes data from an LLM-driven automated vetting system for job applications. The goal is to understand the system's effectiveness by examining the relationship between LLM-generated cosine similarity scores, candidate progression through hiring stages, and candidate job titles.
 
 A PDF of the analysis presentation can be found here - <a href="https://bit.ly/Amoo-pariti">🔗Report LINK</a>
+![Pariti - Analysis report](https://github.com/user-attachments/assets/f6a1889c-bdcd-47f8-9b93-01accd9a0e11)
 
 ### Data Source
 
